@@ -1,0 +1,6 @@
+.setka {
+    display: grid;
+    grid-template-areas: 
+    "h h "
+    "t c";
+}

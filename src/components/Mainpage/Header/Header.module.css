@@ -1,0 +1,23 @@
+.container {
+    background: rgba(245, 245, 245, 0.85);
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+.container img {
+    height: 50px;
+}
+.items {
+    font-family:Ubuntu;
+    padding-right: 50px;
+    font-size: 20px;
+}
+a {
+    padding-left: 50px;
+    text-decoration: none;
+    color:rgba(29, 29, 29, 0.6);
+}
+
